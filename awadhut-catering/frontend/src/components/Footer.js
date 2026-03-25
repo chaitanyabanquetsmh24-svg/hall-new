@@ -70,7 +70,7 @@ export default function Footer() {
                   rel="noopener noreferrer"
                   className="text-sm text-stone-400 hover:text-amber-400 transition-colors"
                 >
-                  Near Bus Stand, Latur, Maharashtra 413512
+                  Near BHAGWAN SCHOOL , OPPOSITE TO THE WANDER-CARS SHOWROOM , Latur, Maharashtra 413512
                 </a>
               </li>
               <li className="flex items-center gap-3">
